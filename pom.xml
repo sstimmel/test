@@ -12,6 +12,7 @@
 
         <source.version>1.8</source.version>
         <target.version>1.8</target.version>
+	<project.scm.id>git</project.scm.id>
     </properties>
 
     <scm>
