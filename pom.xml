@@ -16,7 +16,7 @@
 
     <scm>
         <connection>scm:git:ssh://git@github.com:sstimmel/test.git</connection>
-        <developerConnection>scm:git:ssh://github.com/sstimmel/test.git</developerConnection>
+        <developerConnection>scm:git:ssh://git@github.com/sstimmel/test.git</developerConnection>
         <url>https://github.com/sstimmel/test</url>
     </scm>
 
