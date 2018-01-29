@@ -4,7 +4,7 @@
 
     <groupId>test</groupId>
     <artifactId>versioning</artifactId>
-    <version>1.4</version>
+    <version>1.5-SNAPSHOT</version>
 
     <properties>
 
@@ -17,7 +17,7 @@
         <connection>scm:git:https://github.com:sstimmel/test.git</connection>
         <developerConnection>scm:git:https://github.com/sstimmel/test.git</developerConnection>
         <url>https://github.com/sstimmel/test</url>
-      <tag>versioning-1.4</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <distributionManagement>
